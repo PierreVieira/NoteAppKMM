@@ -1,4 +1,4 @@
-package com.example.noteappkmm
+package com.example.noteapp
 
 import platform.UIKit.UIDevice
 

@@ -1,4 +1,4 @@
-package com.example.noteappkmm
+package com.example.noteapp
 
 class Greeting {
     private val platform: Platform = getPlatform()

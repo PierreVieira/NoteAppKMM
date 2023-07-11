@@ -1,4 +1,4 @@
-package com.example.noteappkmm.android
+package com.example.noteapp.android
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.shape.RoundedCornerShape
